@@ -49,7 +49,7 @@ void setup() {
     }
 
     // スピーカーの初期設定
-    M5.Speaker.setVolume(144);
+    M5.Speaker.setVolume(196);
 
     // 画面の初期表示
     M5.Display.setTextSize(2);
